@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Elysia\Desktop\starry code\猜数字\猜数字\FileName.cpp(15,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  猜数字.vcxproj -> C:\Users\Elysia\Desktop\starry code\猜数字\x64\Debug\猜数字.exe
